@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: ad5b1a0c-b3af-7e9b-e9e7-293f4111cefa
 ---
@@ -25,7 +26,7 @@ High level graduate students with sufficient training to participate in sophisti
 
 ### Evaluation
 
-Course grades will be based on the completion of a final paper. See [assignments]({{< baseurl >}}/pages/assignments) for more information.
+Course grades will be based on the completion of a final paper. See {{< resource_link d69ca796-5469-7481-a3fd-e9c0d8d0dc32 "assignments" >}} for more information.
 
 Recommended Reference Texts
 ---------------------------
