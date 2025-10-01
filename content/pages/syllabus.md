@@ -39,7 +39,7 @@ Lewis, David. _Philosophical Papers_. Vol. 1. New York, NY: Oxford University Pr
 
 ———. _Papers in Philosophical Logic_. Vol. 1. Cambridge, UK: Cambridge University Press, 1997. ISBN: 9780521587884.
 
-[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262691130) Stalnaker, Robert. _Inquiry_. Cambridge, MA: The MIT Press, 1987. ISBN: 9780262691130.
+{{% resource_link "a0108483-38b8-4f4b-ada4-6110096d4d4c" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Stalnaker, Robert. _Inquiry_. Cambridge, MA: The MIT Press, 1987. ISBN: 9780262691130.
 
 ———. _Context and Content_. New York, NY: Oxford University Press, 1999. ISBN: 9780198237075.
 
