@@ -14,7 +14,7 @@ Final papers
 
 If you're taking the class for credit, I'd like to ask you to turn in a paper no later than one week after Ses #13. Please don't hesitate to come see me if you'd like to think about your paper out loud, or if you'd like to run an argument by me. I'd also be happy to look at early drafts.
 
-Paper assignments are designed to give students research practice in philosophy, and should relate to a topic discussed in class. Some example topics include "Skepticism, Interpretism and the Impossibility of Agnosticism" and "On Intentional Transitive Verbs." Papers should be formatted as an article to submit to a philosophy journal, and must produce a novel contribution to the debate. Read these additional {{% resource_link "612ab820-0f05-47c4-93ca-79559b9f26da" "Guidelines for Philosophical Writing" %}} for help with writing strategies.
+Paper assignments are designed to give students research practice in philosophy, and should relate to a topic discussed in class. Some example topics include "Skepticism, Interpretism and the Impossibility of Agnosticism" and "On Intentional Transitive Verbs." Papers should be formatted as an article to submit to a philosophy journal, and must produce a novel contribution to the debate. Read these additional [Guidelines for Philosophical Writing](http://www.jimpryor.net/teaching/guidelines/writing.html) for help with writing strategies.
 
 Paper presentations
 -------------------
